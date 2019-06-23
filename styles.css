@@ -1,0 +1,9 @@
+.italic {font-style: italic;}
+ul{list-style-type: none; }
+li span {font-weight:bold;}
+.box1 { border: 1px solid gray;
+padding: 2%}
+.card{border: 1px solid gray;
+  margin: 300px;
+  padding: 15px;
+  width: 300px;}
